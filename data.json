@@ -1,0 +1,32 @@
+{
+  "details": [
+    {
+      "name": "Bala chandran",
+      "role": "Java Developer",
+      "experience": "3 years",
+      "email": "balaJava@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Ashwin",
+      "role": "React Developer",
+      "experience": "2 years",
+      "email": "aswinReact@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Karthik ",
+      "role": "Angular Developer",
+      "experience": "2+ years",
+      "email": "karthikSirri@gmail.com",
+      "id": 3
+    },
+    {
+      "name": " Akash",
+      "role": "Cyber Security",
+      "experience": "1 year",
+      "email": "akashKasi@gmail.com",
+      "id": 4
+    }
+  ]
+}

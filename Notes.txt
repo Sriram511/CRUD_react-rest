@@ -1,0 +1,26 @@
+Home.jsx;
+
+To display the json data's to use the two Hooks {useEffect & useState}
+
+in the useState pass the two aruguments user and setUser
+
+And the useEffect hook is the main part of the session
+
+in the useEffect function implement the Axios.get method to fetch the api URL 
+
+and assing them into the setUser like(res.data);
+
+next pass the user in the final array brackets[user]
+
+and in the tBody use the map function to get and map the datas
+
+useState first parameter user.map
+and in the two params named data and index
+
+data == variable
+index == is the Key element
+
+and in the view button remove the button and give it as a 
+Link (react-router-dom);
+
+Link to={`/users/${data.id}`};
